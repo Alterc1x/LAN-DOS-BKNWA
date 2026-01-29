@@ -1,0 +1,7 @@
+colorama
+termcolor
+colored
+re
+platform
+threading
+time
