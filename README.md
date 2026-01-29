@@ -8,7 +8,7 @@ Note:- I made this when i was 15? i think... i was looking through my flash driv
 ---
 
 #CYBER-DOS || LAN-DOS
-![CyberDOS Intro](assets/images/cyberdos.png)
+![CyberDOS Intro](assets/img/cyberdos.png)
 
 ## ✨ Features
 
